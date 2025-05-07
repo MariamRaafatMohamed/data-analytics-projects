@@ -1,2 +1,7 @@
-# data-analytics-projects
-A collection of Power BI dashboards analyzing different business domains.
+# 📚 All My Power BI Dashboards
+
+1. [📊 Sales Overview Dashboard](https://github.com/MariamRaafatMohamed/Sales-Overview-Dashboard)
+2. [🌍 Orders Trends by Region](https://github.com/MariamRaafatMohamed/Orders-Trends-by-Region)
+3. [🍕 Pizza Sales Report](https://github.com/MariamRaafatMohamed/Pizza-Sales-Report)
+4. [🧑‍💼 Employees Demographics Report](https://github.com/MariamRaafatMohamed/Employees-Demographics-Report)
+5. [🎬 Netflix Content Analysis](https://github.com/MariamRaafatMohamed/Netflix-Content-Analysis)
